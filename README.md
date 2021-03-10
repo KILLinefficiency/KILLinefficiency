@@ -3,13 +3,13 @@
 <br>
 
 <div align = "center">
-    <img width = "240" height = "180" alt = "Happy Computer" src = "resources/happy_computer.webp">
+    <img width = "320" height = "240" alt = "Happy Computer" src = "resources/happy_computer.webp">
 </div>
 <br>
 
-<p><h3>
+<p>
 Hello There! I am a young programmer from India. I am mostly interested in backend development and low-level programming. I have great amount of interest and love for Linux and FOSS. I also love to work on personal projects.
-</h3></p>
+</p>
 <br>
 
 ## Skills
