@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<p>
+<p style = "font-size: 16px;">
 Hello There! I am a young programmer from India. I am mostly interested in backend development and low-level programming. I have great amount of interest and love for Linux and FOSS. I also love to work on personal projects.
 </p>
 <br>
