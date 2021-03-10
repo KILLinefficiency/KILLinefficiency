@@ -1,16 +1,23 @@
-# Hello There! :blush:
+# Glad to see you here! :blush:
 
 <br>
 
 <div align = "center">
     <img alt = "Happy Computer" src = "resources/happy_computer.webp">
 </div>
+<br>
 
+<p>
+Hello There! I am a young programmer.
+</p>
 <br>
 
 ## Projects
 
 <br>
+<p>Here are some of the projects that I have worked on.</p>
+<br>
+
 <div align = "center">
     <a href = "https://www.github.com/KILLinefficiency/Explore" target = "_blank">
         <img alt = "Wave" src = "https://github-readme-stats.vercel.app/api/pin/?username=KILLinefficiency&repo=Explore&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
