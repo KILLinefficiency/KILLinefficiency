@@ -15,8 +15,14 @@ Hello There! I am a young programmer.
 ## Skills
 
 <div align = "center">
-    <img alt = "Python" src = "https://img.shields.io/badge/C%20&%20C++-1C1E26?style=for-the-badge&logo=C&logoColor=27D796&labelColor=1C1E26">
+    <img alt = "C & C++" src = "https://img.shields.io/badge/C%20&%20C++-1C1E26?style=for-the-badge&logo=C&logoColor=27D796&labelColor=1C1E26">
     <img alt = "Python" src = "https://img.shields.io/badge/Python-1C1E26?style=for-the-badge&logo=python&logoColor=27D796&labelColor=1C1E26">
+    <img alt = "Go" src = "https://img.shields.io/badge/Go-1C1E26?style=for-the-badge&logo=go&logoColor=27D796&labelColor=1C1E26">
+    <img alt = "" src = "">
+    <img alt = "" src = "">
+    <img alt = "HTML" src = "https://img.shields.io/badge/HTML-1C1E26?style=for-the-badge&logo=html5&logoColor=27D796&labelColor=1C1E26">
+    <img alt = "Linux" src = "https://img.shields.io/badge/Linux-1C1E26?style=for-the-badge&logo=linux&logoColor=27D796&labelColor=1C1E26">
+    
 </div>
 
 ## Projects
