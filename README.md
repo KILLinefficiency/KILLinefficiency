@@ -5,7 +5,7 @@
 
 <br>
 <div align = "center">
-    <img alt = "Wave" src = "https://github-readme-stats.vercel.app/api/pin/?username=KILLinefficiency&repo=Wave&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+    <a href = "https://www.github.com/KILLinefficiency/Wave" target = "_blank"><img alt = "Wave" src = "https://github-readme-stats.vercel.app/api/pin/?username=KILLinefficiency&repo=Wave&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26"></a>
 </div>
 
 <br>
