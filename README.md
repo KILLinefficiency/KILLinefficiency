@@ -8,10 +8,7 @@
 
 <p>
 Hello There! I am a young programmer from India. I am mainly interested in backend development and low-level programming. I work extensively on personal projects and have developed a few good ones. I also carry a great amount of interest and love for GNU/Linux and FOSS.
-<br>
-:)
 </p>
-<br>
 
 ## Skills
 
