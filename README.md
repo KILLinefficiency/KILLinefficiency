@@ -14,6 +14,7 @@ Hello There! I am a young programmer from India. I am mostly interested in backe
 
 ## Skills
 
+<br>
 <div align = "center">
     <img alt = "C & C++" src = "https://img.shields.io/badge/C%20&%20C++-1C1E26?style=for-the-badge&logo=C&logoColor=27D796&labelColor=1C1E26">
     <img alt = "Python" src = "https://img.shields.io/badge/Python-1C1E26?style=for-the-badge&logo=python&logoColor=27D796&labelColor=1C1E26">
@@ -49,6 +50,9 @@ Hello There! I am a young programmer from India. I am mostly interested in backe
     </a>
     <br><br>
 </div>
+
+
+### GitHub Stats
 
 <br>
 <div align = "center">
