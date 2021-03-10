@@ -2,13 +2,13 @@
 
 <br>
 
-<div align = "center">
+<div align = "right">
     <img width = "320" height = "240" alt = "Happy Computer" src = "resources/happy_computer.webp">
 </div>
 <br>
 
 <p>
-Hello There! I am a young programmer from India. I am mostly interested in backend development and low-level programming. I have great amount of interest and love for Linux and FOSS. I also love to work on personal projects.
+Hello There! I am a young programmer from India. I am mostly interested in backend development and low-level programming. I work extensively on personal projects. I also have a great amount of interest and love for Linux and FOSS. 
 </p>
 <br>
 
