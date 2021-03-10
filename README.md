@@ -1,14 +1,15 @@
 # Glad to see you here! :blush:
 
 <br>
-
-<div align = "right">
+<div align = "center">
     <img width = "320" height = "240" alt = "Happy Computer" src = "resources/happy_computer.webp">
 </div>
 <br>
 
 <p>
-Hello There! I am a young programmer from India. I am mostly interested in backend development and low-level programming. I work extensively on personal projects. I also have a great amount of interest and love for Linux and FOSS. 
+Hello There! I am a young programmer from India. I am mainly interested in backend development and low-level programming. I work extensively on personal projects and have developed a few good ones. I also carry a great amount of interest and love for GNU/Linux and FOSS.
+<br>
+:)
 </p>
 <br>
 
@@ -24,6 +25,7 @@ Hello There! I am a young programmer from India. I am mostly interested in backe
     <img alt = "Linux" src = "https://img.shields.io/badge/Linux-1C1E26?style=for-the-badge&logo=linux&logoColor=27D796&labelColor=1C1E26">
     
 </div>
+<br>
 
 ## Projects
 
@@ -50,7 +52,6 @@ Hello There! I am a young programmer from India. I am mostly interested in backe
     </a>
     <br><br>
 </div>
-
 
 ### GitHub Stats
 
