@@ -3,12 +3,12 @@
 <br>
 
 <div align = "center">
-    <img alt = "Happy Computer" src = "resources/happy_computer.webp">
+    <img width = "240" height = "180" alt = "Happy Computer" src = "resources/happy_computer.webp">
 </div>
 <br>
 
 <p>
-Hello There! I am a young programmer.
+Hello There! I am a young programmer from India. I am mostly interested in backend development and low-level programming. I have great amount of interest and love for Linux and FOSS. I also love to work on personal projects.
 </p>
 <br>
 
@@ -18,8 +18,7 @@ Hello There! I am a young programmer.
     <img alt = "C & C++" src = "https://img.shields.io/badge/C%20&%20C++-1C1E26?style=for-the-badge&logo=C&logoColor=27D796&labelColor=1C1E26">
     <img alt = "Python" src = "https://img.shields.io/badge/Python-1C1E26?style=for-the-badge&logo=python&logoColor=27D796&labelColor=1C1E26">
     <img alt = "Go" src = "https://img.shields.io/badge/Go-1C1E26?style=for-the-badge&logo=go&logoColor=27D796&labelColor=1C1E26">
-    <img alt = "" src = "">
-    <img alt = "" src = "">
+    <img alt = "NodeJs" src = "https://img.shields.io/badge/Node-1C1E26?style=for-the-badge&logo=node.js&logoColor=27D796&labelColor=1C1E26">
     <img alt = "HTML" src = "https://img.shields.io/badge/HTML-1C1E26?style=for-the-badge&logo=html5&logoColor=27D796&labelColor=1C1E26">
     <img alt = "Linux" src = "https://img.shields.io/badge/Linux-1C1E26?style=for-the-badge&logo=linux&logoColor=27D796&labelColor=1C1E26">
     
