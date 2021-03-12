@@ -24,6 +24,13 @@ Hello There! I am a young programmer from India. I am mainly interested in syste
 </div>
 <br>
 
+### GitHub Stats
+
+<br>
+<div align = "center">
+    <img alt = "Shreyas Sable's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=KILLinefficiency&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
+</div>
+
 ## Projects
 
 <br>
@@ -48,11 +55,4 @@ Hello There! I am a young programmer from India. I am mainly interested in syste
         <img alt = "ArchBuild" src = "https://github-readme-stats.vercel.app/api/pin/?username=KILLinefficiency&repo=ArchBuild&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
     </a>
     <br><br>
-</div>
-
-### GitHub Stats
-
-<br>
-<div align = "center">
-    <img alt = "Shreyas Sable's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=KILLinefficiency&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
 </div>
