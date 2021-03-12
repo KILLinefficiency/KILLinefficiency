@@ -1,4 +1,4 @@
-# Glad to see you here! :blush:
+<h1>Glad to see you here! :blush:</h1>
 
 <br>
 <div align = "center">
@@ -10,7 +10,7 @@
 Hello There! I am a young programmer from India. I am mainly interested in systems engineering, backend development and low-level programming. I work extensively on personal projects and have developed a few good ones. I also carry a great amount of interest and love for GNU/Linux and FOSS.
 </p>
 
-## Skills
+<h2>Skills</h2>
 
 <br>
 <div align = "center">
@@ -24,15 +24,16 @@ Hello There! I am a young programmer from India. I am mainly interested in syste
 </div>
 <br>
 
-## GitHub Stats
+<h2>GitHub Stats</h2>
 
 <br>
 <div align = "center">
     <img alt = "Shreyas Sable's GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=KILLinefficiency&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
 </div>
 
-## Projects
+<h2>Projects</h2>
 
+<br>
 <div align = "center">
     <table>
         <tr>
