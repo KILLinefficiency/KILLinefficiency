@@ -24,7 +24,7 @@ Hello There! I am a young programmer from India. I am mainly interested in syste
 </div>
 <br>
 
-### GitHub Stats
+## GitHub Stats
 
 <br>
 <div align = "center">
