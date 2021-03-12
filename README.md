@@ -33,34 +33,28 @@ Hello There! I am a young programmer from India. I am mainly interested in syste
 
 ## Projects
 
-<br>
 <div align = "center">
     <table>
         <tr>
         <td><a href = "https://www.github.com/KILLinefficiency/Explore" target = "_blank">
             <img alt = "Explore" src = "https://github-readme-stats.vercel.app/api/pin/?username=KILLinefficiency&repo=Explore&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
-        <br><br>
         <td><a href = "https://www.github.com/KILLinefficiency/Wave" target = "_blank">
             <img alt = "Wave" src = "https://github-readme-stats.vercel.app/api/pin/?username=KILLinefficiency&repo=Wave&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         </tr>
-        <br><br>
         <tr>
         <td><a href = "https://www.github.com/KILLinefficiency/Codebase" target = "_blank">
             <img alt = "Codebase" src = "https://github-readme-stats.vercel.app/api/pin/?username=KILLinefficiency&repo=Codebase&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
-        <br><br>
         <td><a href = "https://www.github.com/KILLinefficiency/Forge" target = "_blank">
             <img alt = "Forge" src = "https://github-readme-stats.vercel.app/api/pin/?username=KILLinefficiency&repo=Forge&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
         </tr>
         <tr>
-        <br><br>
         <td><a href = "https://www.github.com/KILLinefficiency/ArchBuild" target = "_blank">
             <img alt = "ArchBuild" src = "https://github-readme-stats.vercel.app/api/pin/?username=KILLinefficiency&repo=ArchBuild&show_icons=true&title_color=27D796&icon_color=B877DB&text_color=F9CBBE&bg_color=1C1E26">
         </a></td>
-        <br><br>
         </tr>
     </table>
 </div>
