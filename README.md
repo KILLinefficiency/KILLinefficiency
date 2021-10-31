@@ -14,7 +14,7 @@ Hello There! I am a young programmer from India. I am mainly interested in syste
 
 <br>
 <div align = "center">
-    <img alt = "C & C++" src = "https://img.shields.io/badge/C%20&%20C++-:282C34?style=for-the-badge&logo=C&logoColor=98C379&labelColor=282C34">
+    <img alt = "C & C++" src = "https://img.shields.io/badge/C%20&%20C++-282C34?style=for-the-badge&logo=C&logoColor=98C379&labelColor=282C34">
     <img alt = "Python" src = "https://img.shields.io/badge/Python-282C34?style=for-the-badge&logo=python&logoColor=98C379&labelColor=282C34">
     <img alt = "Go" src = "https://img.shields.io/badge/Go-282C34?style=for-the-badge&logo=go&logoColor=98C379&labelColor=282C34">
     <img alt = "NodeJs" src = "https://img.shields.io/badge/Node-282C34?style=for-the-badge&logo=node.js&logoColor=98C379&labelColor=282C34">
